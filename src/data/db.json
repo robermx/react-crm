@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "cliente": "Roberto Carlos Arenas Ortiz",
+      "empresa": "webxmex",
+      "telefono": "554741254",
+      "email": "hprob@webxmex.xom",
+      "postal": "47414",
+      "notas": "Lo mejor esta por venir",
+      "id": 1
+    },
+    {
+      "cliente": "Magnolia Bachas Mergas",
+      "empresa": "Basolia",
+      "telefono": "474744545",
+      "email": "mole@jijo.com",
+      "postal": "51245",
+      "notas": "El sonido del viento determina tu lugar",
+      "id": 2
+    },
+    {
+      "cliente": "Lupita Cordero",
+      "empresa": "Galo",
+      "telefono": "5548475856",
+      "email": "lpecor@galo.com",
+      "postal": "58741",
+      "notas": "Los insultos pasan y se van si sentirlos",
+      "id": 3
+    },
+    {
+      "cliente": "Elvis Mórrison",
+      "empresa": "Baco",
+      "telefono": "5548752545",
+      "email": "elvia@baco.com",
+      "postal": "57841",
+      "notas": "Del pulmón a la maldición",
+      "id": 5
+    },
+    {
+      "cliente": "Jacintu Firas Lobas",
+      "empresa": "Ando Chundo",
+      "telefono": "5548547455",
+      "email": "chundo@yahoo.com",
+      "postal": "85479",
+      "notas": "Me la paso de noche",
+      "id": 7
+    },
+    {
+      "cliente": "Emiliano Partos Buenfil",
+      "empresa": "Partos",
+      "telefono": "8877372772",
+      "email": "emi_partos@icloud.com",
+      "postal": "78451",
+      "notas": "Se cansa de no hacer nada",
+      "id": 8
+    }
+  ]
+}
